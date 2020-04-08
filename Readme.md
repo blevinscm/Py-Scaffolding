@@ -1,4 +1,4 @@
-Sharepoint List Subscription Webhook and Receiver
+scrpipSharepoint List Subscription Webhook and Receiver
 =============================================================================
 
 ![GitHub](https://img.shields.io/github/license/blevinscm/SP-List-Subscription-Receiver) 
@@ -21,11 +21,11 @@ Within powershell or your shell of choice
     cd \[repo]\
 3. Create virtual environment
     ```PS
-    py -m venv env
+    py -m venv spenv
     ```
 4. Activate virtual environment
     ```ps
-    \env\Scripts\activate
+    spenv\Scripts\activate
     ```
 5. Install pip dependencies
     ```ps
