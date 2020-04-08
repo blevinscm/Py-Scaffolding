@@ -3,9 +3,9 @@ Sharepoint List Subscription Webhook and Receiver
 
 ![GitHub](https://img.shields.io/github/license/blevinscm/SP-LIST-SUSCRIPTION-RECEIVER) 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/blevinsvm/
-SP-LIST-SUSCRIPTION-RECEIVER?include_prereleases)
+SP-List-Subscription-Receiver?include_prereleases)
 
-This repository contains the source code to create a change subsription webhook on a SharePoint document library by calling the SP API and then receive the changes and parsing the JSON. 
+This repository contains the source code to create a change subsription webhook on a SharePoint document library by calling the SP API and then receive the changes to a local flask webapp and parsing the JSON. 
 
 
 ## Setup virtual environment (Windows)
