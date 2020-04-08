@@ -1,4 +1,4 @@
-scrpipSharepoint List Subscription Webhook and Receiver
+Sharepoint List Subscription Webhook and Receiver
 =============================================================================
 
 ![GitHub](https://img.shields.io/github/license/blevinscm/SP-List-Subscription-Receiver) 
