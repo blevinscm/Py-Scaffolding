@@ -1,8 +1,8 @@
-Sharepoint List Subscription Webhook and Receiver
+Python Scaffolding as a starting point
 =============================================================================
 
-![GitHub](https://img.shields.io/github/license/blevinscm/SP-List-Subscription-Receiver) 
-![GitHub release](https://img.shields.io/github/release/blevinscm/SP-List-Subscription-Receiver?include_prereleases)
+![GitHub](https://img.shields.io/github/license/blevinscm/Py-Scaffolding) 
+![GitHub release](https://img.shields.io/github/release/blevinscm/Py-Scaffolding?include_prereleases)
 
 This repository contains the source code to create a change subsription webhook on a SharePoint document library by calling the SP API and then receive the changes to a local flask webapp and parsing the JSON. 
 
